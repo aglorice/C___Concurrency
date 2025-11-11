@@ -58,4 +58,5 @@ void f() {
 
 int main() {
     f();
+    std::cout << "一切都结束了" << std::endl;
 }
