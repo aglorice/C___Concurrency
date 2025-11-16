@@ -26,4 +26,10 @@ add_executable(C___Concurrency main.cpp
         "src/code list 3.10.cpp"
         "src/code list 3.11.cpp"
         "src/code list 3.12.cpp"
+        "src/code list 3.13.cpp"
+        "src/code list 4.1.cpp"
+        "src/code list 4.2.cpp"
+        "src/code list 4.3.cpp"
+        "src/code list 4.4.cpp"
+        "src/code list 4.5.cpp"
 )
