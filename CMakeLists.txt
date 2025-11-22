@@ -39,4 +39,7 @@ add_executable(C___Concurrency main.cpp
         "src/code list 4.10.cpp"
         "src/code list 4.11.cpp"
         "src/code list 4.12.cpp"
+        "src/code list 4.13.cpp"
+        "src/code list 4.14.cpp"
+        "src/code list 4.15.cpp"
 )
